@@ -8,7 +8,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -284,6 +284,16 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "line_style": 0,
+        "name": "Power",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": "",
+        "wire_width": 6
       }
     ],
     "meta": {
@@ -438,16 +448,22 @@
         "uuid": "f2d4402a-bfbf-4d69-9a4a-bfc17a890c47"
       }
     ],
-    "used_designators": "C1,R1",
+    "used_designators": "J1-4,H1-4,C1-5,D1-2,BT1,Y1-2,U1-4,R1-8",
     "variants": []
   },
   "sheets": [
     [
       "f2d4402a-bfbf-4d69-9a4a-bfc17a890c47",
       "Root"
+    ],
+    [
+      "122adce1-c55b-4dbb-a4ec-17b38999a474",
+      "connectors"
     ]
   ],
-  "text_variables": {},
+  "text_variables": {
+    "prjn": "MCU data logger with memory and clock"
+  },
   "tuning_profiles": {
     "meta": {
       "version": 1
