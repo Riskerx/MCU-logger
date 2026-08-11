@@ -2847,6 +2847,94 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 38.1 37.465)
+		(end 137.795 81.915)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "19ee124d-1a1c-4511-9665-3cfc34168337")
+	)
+	(rectangle
+		(start 152.4 22.86)
+		(end 276.225 94.615)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "b9bc8c4c-f24e-4c9c-be1e-0aca3370b186")
+	)
+	(rectangle
+		(start 131.445 96.52)
+		(end 220.98 142.875)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "c3d83190-b104-45cf-b54a-77df2ef32c14")
+	)
+	(rectangle
+		(start 31.75 88.9)
+		(end 127 129.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "cc01cde1-791e-44df-8253-7ef7a93d6ebf")
+	)
+	(text "MCU"
+		(exclude_from_sim no)
+		(at 156.21 20.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4fff06c0-148a-4bb3-8946-25cdb6184e1a")
+	)
+	(text "EEPROM"
+		(exclude_from_sim no)
+		(at 38.1 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6027a030-8795-4c0a-9c64-900382c8363a")
+	)
+	(text "Connectors and mounting"
+		(exclude_from_sim no)
+		(at 144.78 146.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7d359403-3095-4662-ac8d-c4d057a5c837")
+	)
+	(text "Real time Clock"
+		(exclude_from_sim no)
+		(at 46.99 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e5001384-cc00-4004-b448-42df761c57f8")
+	)
 	(junction
 		(at 241.3 33.02)
 		(diameter 0)
