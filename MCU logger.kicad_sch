@@ -3387,7 +3387,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 109.22) (xy 201.93 109.22)
+			(xy 184.15 97.79) (xy 163.83 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3567,7 +3567,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 109.22) (xy 201.93 113.03)
+			(xy 163.83 97.79) (xy 163.83 101.6)
 		)
 		(stroke
 			(width 0)
@@ -3817,7 +3817,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 110.49) (xy 222.25 109.22)
+			(xy 184.15 99.06) (xy 184.15 97.79)
 		)
 		(stroke
 			(width 0)
@@ -3976,7 +3976,7 @@
 		(uuid "05625652-400e-4f14-a32c-4a1ed2456b8d")
 	)
 	(label "D8"
-		(at 213.36 139.7 0)
+		(at 175.26 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4006,7 +4006,7 @@
 		(uuid "0d3ccc2d-529f-4e21-b105-5990a683586a")
 	)
 	(label "VCC"
-		(at 193.04 113.03 90)
+		(at 154.94 101.6 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4036,7 +4036,7 @@
 		(uuid "29c61e5b-6097-422b-96f8-cff167ec31a1")
 	)
 	(label "D5"
-		(at 213.36 132.08 0)
+		(at 175.26 120.65 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4056,7 +4056,7 @@
 		(uuid "2f757a74-21fa-428f-89f0-d255ec02eacb")
 	)
 	(label "D7"
-		(at 213.36 137.16 0)
+		(at 175.26 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4066,7 +4066,7 @@
 		(uuid "30ef0c2f-5cca-43c2-b850-21616108cb56")
 	)
 	(label "D6"
-		(at 213.36 134.62 0)
+		(at 175.26 123.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4116,7 +4116,7 @@
 		(uuid "49add521-b7ad-4204-8339-500d1bc5e087")
 	)
 	(label "D4"
-		(at 213.36 129.54 0)
+		(at 175.26 118.11 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4126,7 +4126,7 @@
 		(uuid "4ca1ed67-7be3-4c81-8439-1b6ebdc141f6")
 	)
 	(label "TX"
-		(at 177.8 132.08 180)
+		(at 139.7 120.65 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4136,7 +4136,7 @@
 		(uuid "4d567ae6-a95d-4afe-96ed-6b98a64305c2")
 	)
 	(label "MISO"
-		(at 177.8 137.16 180)
+		(at 139.7 125.73 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4146,7 +4146,7 @@
 		(uuid "5291d05d-a606-40bf-a923-c0aa0455cbd6")
 	)
 	(label "D3"
-		(at 213.36 127 0)
+		(at 175.26 115.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4176,7 +4176,7 @@
 		(uuid "59ca122e-819e-4622-9de0-cc782a4cc671")
 	)
 	(label "SDA"
-		(at 177.8 120.65 180)
+		(at 139.7 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4216,7 +4216,7 @@
 		(uuid "5ef4a225-582c-4917-97b7-ff858f037b45")
 	)
 	(label "D2"
-		(at 213.36 124.46 0)
+		(at 175.26 113.03 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4246,7 +4246,7 @@
 		(uuid "66f69387-b036-4027-a566-bb053b78d0f6")
 	)
 	(label "MOSI"
-		(at 177.8 139.7 180)
+		(at 139.7 128.27 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4326,7 +4326,7 @@
 		(uuid "b06f9331-2998-4cc3-97fd-30f9a173274a")
 	)
 	(label "SCK"
-		(at 177.8 123.19 180)
+		(at 139.7 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4346,7 +4346,7 @@
 		(uuid "bcb28acd-0e88-4f94-8e11-e84e0f6903f1")
 	)
 	(label "RESET"
-		(at 177.8 142.24 180)
+		(at 139.7 130.81 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4426,7 +4426,7 @@
 		(uuid "fbc83900-6c02-4113-ac02-5a14a13ba233")
 	)
 	(label "RX"
-		(at 177.8 129.54 180)
+		(at 139.7 118.11 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4437,7 +4437,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 247.65 154.94 180)
+		(at 203.2 134.62 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4448,7 +4448,7 @@
 		(fields_autoplaced yes)
 		(uuid "074bacdd-1366-4488-9216-017b68ea2d5f")
 		(property "Reference" "H1"
-			(at 250.19 153.6699 0)
+			(at 205.74 133.3499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4459,7 +4459,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 250.19 156.2099 0)
+			(at 205.74 135.8899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4470,7 +4470,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.1mm"
-			(at 247.65 154.94 0)
+			(at 203.2 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4481,7 +4481,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 247.65 154.94 0)
+			(at 203.2 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4492,7 +4492,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 247.65 154.94 0)
+			(at 203.2 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4699,7 +4699,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 247.65 124.46 90)
+		(at 203.2 104.14 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4710,7 +4710,7 @@
 		(fields_autoplaced yes)
 		(uuid "33259ac1-c531-4c65-9df1-c5b4adc68ab2")
 		(property "Reference" "H4"
-			(at 250.19 123.1899 90)
+			(at 205.74 102.8699 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4721,7 +4721,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 250.19 125.7299 90)
+			(at 205.74 105.4099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4732,7 +4732,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.1mm"
-			(at 247.65 124.46 0)
+			(at 203.2 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4743,7 +4743,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 247.65 124.46 0)
+			(at 203.2 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4754,7 +4754,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 247.65 124.46 0)
+			(at 203.2 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5255,7 +5255,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 222.25 110.49 0)
+		(at 184.15 99.06 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5266,7 +5266,7 @@
 		(fields_autoplaced yes)
 		(uuid "588f78c1-647d-4b03-931e-29f2ddd407aa")
 		(property "Reference" "#PWR06"
-			(at 222.25 116.84 0)
+			(at 184.15 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5277,7 +5277,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 222.25 115.57 0)
+			(at 184.15 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5287,7 +5287,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 222.25 110.49 0)
+			(at 184.15 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5298,7 +5298,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 222.25 110.49 0)
+			(at 184.15 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5309,7 +5309,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 222.25 110.49 0)
+			(at 184.15 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5911,7 +5911,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 247.65 134.62 270)
+		(at 203.2 114.3 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5921,7 +5921,7 @@
 		(dnp no)
 		(uuid "83a3ac16-05a7-4d8e-84df-f81b45e7d6a3")
 		(property "Reference" "H3"
-			(at 250.19 133.35 90)
+			(at 205.74 113.03 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5932,7 +5932,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 250.19 135.89 90)
+			(at 205.74 115.57 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5943,7 +5943,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.1mm"
-			(at 247.65 134.62 0)
+			(at 203.2 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5954,7 +5954,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 247.65 134.62 0)
+			(at 203.2 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5965,7 +5965,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 247.65 134.62 0)
+			(at 203.2 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6313,7 +6313,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 247.65 144.78 180)
+		(at 203.2 124.46 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6324,7 +6324,7 @@
 		(fields_autoplaced yes)
 		(uuid "9c71e74d-5540-47c3-82c9-126a446099a8")
 		(property "Reference" "H2"
-			(at 250.19 143.5099 0)
+			(at 205.74 123.1899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6335,7 +6335,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 250.19 146.0499 0)
+			(at 205.74 125.7299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6346,7 +6346,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.1mm"
-			(at 247.65 144.78 0)
+			(at 203.2 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6357,7 +6357,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 247.65 144.78 0)
+			(at 203.2 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6368,7 +6368,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 247.65 144.78 0)
+			(at 203.2 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7762,7 +7762,7 @@
 		)
 	)
 	(sheet
-		(at 177.8 113.03)
+		(at 139.7 101.6)
 		(size 35.56 37.465)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7778,7 +7778,7 @@
 		)
 		(uuid "122adce1-c55b-4dbb-a4ec-17b38999a474")
 		(property "Sheetname" "connectors"
-			(at 177.8 112.3184 0)
+			(at 139.7 100.8884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7789,7 +7789,7 @@
 			)
 		)
 		(property "Sheetfile" "connectors.kicad_sch"
-			(at 177.8 151.0796 0)
+			(at 139.7 139.6496 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7800,7 +7800,7 @@
 			)
 		)
 		(pin "D2" bidirectional
-			(at 213.36 124.46 0)
+			(at 175.26 113.03 0)
 			(uuid "d5f596c3-368b-4df2-8ff9-10a1e2329d3b")
 			(effects
 				(font
@@ -7810,7 +7810,7 @@
 			)
 		)
 		(pin "D3" bidirectional
-			(at 213.36 127 0)
+			(at 175.26 115.57 0)
 			(uuid "1bcc4471-29f2-4256-8ed9-f653f4699b62")
 			(effects
 				(font
@@ -7820,7 +7820,7 @@
 			)
 		)
 		(pin "D4" bidirectional
-			(at 213.36 129.54 0)
+			(at 175.26 118.11 0)
 			(uuid "28c21a8a-02a0-4b68-8194-444029ccbf3b")
 			(effects
 				(font
@@ -7830,7 +7830,7 @@
 			)
 		)
 		(pin "D5" bidirectional
-			(at 213.36 132.08 0)
+			(at 175.26 120.65 0)
 			(uuid "7f121d53-cf1c-4fd3-9462-604169c0f119")
 			(effects
 				(font
@@ -7840,7 +7840,7 @@
 			)
 		)
 		(pin "D6" bidirectional
-			(at 213.36 134.62 0)
+			(at 175.26 123.19 0)
 			(uuid "768b7cfe-2493-4ebd-8c1b-12040dfe7733")
 			(effects
 				(font
@@ -7850,7 +7850,7 @@
 			)
 		)
 		(pin "D7" bidirectional
-			(at 213.36 137.16 0)
+			(at 175.26 125.73 0)
 			(uuid "bdd92fab-e816-4417-bb6b-3558a12690d3")
 			(effects
 				(font
@@ -7860,7 +7860,7 @@
 			)
 		)
 		(pin "D8" bidirectional
-			(at 213.36 139.7 0)
+			(at 175.26 128.27 0)
 			(uuid "9ed37553-532f-4a6c-99d3-ca2555329653")
 			(effects
 				(font
@@ -7870,7 +7870,7 @@
 			)
 		)
 		(pin "GND" passive
-			(at 201.93 113.03 90)
+			(at 163.83 101.6 90)
 			(uuid "8f6ebde0-9619-41f3-a511-3ff393be60cd")
 			(effects
 				(font
@@ -7880,7 +7880,7 @@
 			)
 		)
 		(pin "MISO" output
-			(at 177.8 137.16 180)
+			(at 139.7 125.73 180)
 			(uuid "dbbc7a04-b906-4209-852f-450e48125f3d")
 			(effects
 				(font
@@ -7890,7 +7890,7 @@
 			)
 		)
 		(pin "MOSI" input
-			(at 177.8 139.7 180)
+			(at 139.7 128.27 180)
 			(uuid "2d21e49b-a213-49b2-91e5-0c038eb0c737")
 			(effects
 				(font
@@ -7900,7 +7900,7 @@
 			)
 		)
 		(pin "RESET" passive
-			(at 177.8 142.24 180)
+			(at 139.7 130.81 180)
 			(uuid "7bfff79c-c752-4fa2-85bf-64acefc6f067")
 			(effects
 				(font
@@ -7910,7 +7910,7 @@
 			)
 		)
 		(pin "RX" input
-			(at 177.8 129.54 180)
+			(at 139.7 118.11 180)
 			(uuid "79a53d22-ce16-4cfa-bb3a-7b30c2c533ef")
 			(effects
 				(font
@@ -7920,7 +7920,7 @@
 			)
 		)
 		(pin "SCK" passive
-			(at 177.8 123.19 180)
+			(at 139.7 111.76 180)
 			(uuid "0bc61977-6db4-4c2d-8ec5-ab2d7a0c4fa2")
 			(effects
 				(font
@@ -7930,7 +7930,7 @@
 			)
 		)
 		(pin "SDA" bidirectional
-			(at 177.8 120.65 180)
+			(at 139.7 109.22 180)
 			(uuid "86a3706d-1feb-458e-bc2c-77c881a1a458")
 			(effects
 				(font
@@ -7940,7 +7940,7 @@
 			)
 		)
 		(pin "TX" output
-			(at 177.8 132.08 180)
+			(at 139.7 120.65 180)
 			(uuid "f79a8da5-79bc-495e-97cf-36bef9346506")
 			(effects
 				(font
@@ -7950,7 +7950,7 @@
 			)
 		)
 		(pin "VCC" passive
-			(at 193.04 113.03 90)
+			(at 154.94 101.6 90)
 			(uuid "4d88f7a0-7039-4363-8068-52ade66b0011")
 			(effects
 				(font
